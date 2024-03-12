@@ -1,57 +1,18 @@
-## Hack the System: Habert Kungu's Code Playground
+# 💫 About Me:
+As a part-time student and freelance web developer,<br> I am dedicated to crafting exceptional user interfaces <br>that captivate and engage users, while also honing my skills in<br> backend development.<br> With a relentless pursuit of excellence and a thirst for knowledge,<br> I am excited about the opportunities that lie ahead in the dynamic world<br> of web development.<br> By focusing on frontend development to sharpen my skills,<br> I aim to create seamless and intuitive user experiences <br>that elevate digital interactions to new heights.
 
-**Greetings, fellow code warriors!** I'm Habert Kungu, a digital explorer venturing into the realms of programming. Brace yourselves for a glimpse into my coding journey and future aspirations.
 
-**I speak the languages of:**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/habert) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habertkungu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habert kungu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Habert kungu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Habert) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Habert) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Habert kungu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ Habert kungu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@habertkungu) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Habert) 
 
-* **Python:** Mastering its versatility, from web scraping to data analysis (CS50 style, of course!)
-* **JavaScript:** Weaving magic on the web, currently delving into the mysteries of CS50 Web
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=habert-kungu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=habert-kungu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=habert-kungu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**My ever-growing toolbox:**
+---
+[![](https://visitcount.itsvg.in/api?id=habert-kungu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-* **Frameworks:** Flask, Django (ready to conquer more!)
-* **Libraries:** NumPy, Pandas, (your favorites here!)
-
-**Currently on quest:**
-
-* **Taming the Web:** CS50 Web is guiding me to build interactive wonders
-* **Expanding my horizons:** Eager to learn new languages and frameworks
-
-**Seeking allies for:**
-
-* Collaborative projects, let's hack something awesome!
-* Open-source contributions, share the coding love!
-* Problem-solving adventures, challenge me!
-
-**Reach out via:**
-
-* GitHub: @habert-kungu
-* (Add your preferred platforms)
-
-**Pronouns:** He/Him
-
-**Fun fact:** My spirit animal is a curious fox, always sniffing out new coding challenges.
-
-**Ready to join the adventure? Let's code our way to the future!**
-
-**P.S.** Feel free to customize this template further, add your own flair, and make it truly your own!
-
-**Bonus:**
-
-* Consider adding visuals like badges for your skills or a project screenshot.
-* Share a personal project you're proud of.
-* Mention upcoming coding goals you're excited about.
-
-👋 Hi, I’m @habert-kungu
-👀 I’m interested in ...
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
-
-<!---
-habert-kungu/habert-kungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
