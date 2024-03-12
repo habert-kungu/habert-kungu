@@ -1,4 +1,5 @@
 # 💫 About Me:
+## Hi 👋 there i'm Habert
 As a part-time student and freelance web developer,<br> I am dedicated to crafting exceptional user interfaces <br>that captivate and engage users, while also honing my skills in<br> backend development.<br> With a relentless pursuit of excellence and a thirst for knowledge,<br> I am excited about the opportunities that lie ahead in the dynamic world<br> of web development.<br> By focusing on frontend development to sharpen my skills,<br> I aim to create seamless and intuitive user experiences <br>that elevate digital interactions to new heights.
 
 
@@ -11,6 +12,12 @@ As a part-time student and freelance web developer,<br> I am dedicated to crafti
 ![](https://github-readme-stats.vercel.app/api?username=habert-kungu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=habert-kungu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habert-kungu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=habert-kungu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=habert-kungu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
