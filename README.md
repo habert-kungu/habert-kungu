@@ -23,7 +23,6 @@ As a part-time student and freelance web developer, I am dedicated to crafting e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habert-kungu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
-![Snake animation](https://github.com/habert-kungu/habert-kungu/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -39,3 +38,5 @@ As a part-time student and freelance web developer, I am dedicated to crafting e
 [![](https://visitcount.itsvg.in/api?id=habert-kungu&icon=4&color=3)](https://visitcount.itsvg.in)
 ## 💰 You can help me by Donating
 
+
+![Snake animation](https://github.com/habert-kungu/habert-kungu/blob/output/github-contribution-grid-snake.svg)
