@@ -23,6 +23,8 @@ As a part-time student and freelance web developer, I am dedicated to crafting e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habert-kungu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
+![Snake animation](https://github.com/habert-kungu/habert-kungu/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=habert-kungu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
