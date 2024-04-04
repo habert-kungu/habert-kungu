@@ -39,4 +39,9 @@ As a part-time student and freelance web developer, I am dedicated to crafting e
 ## 💰 You can help me by Donating
 
 
+![Snake animation](https://github.com/habert-kungu/habert-kungu/github-contribution-grid-snake.svg)
+
 ![Snake animation](https://github.com/habert-kungu/habert-kungu/blob/output/github-contribution-grid-snake.svg)
+
+
+
