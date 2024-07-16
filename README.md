@@ -4,7 +4,7 @@
 # 💫 About Me:
 <p align="center">Hi 👋 there, I'm Habert.</p>
 
-As a part-time student and freelance web developer, I am dedicated to crafting exceptional user interfaces that captivate and engage users, while also honing my skills in backend development. With a relentless pursuit of excellence and a thirst for knowledge, I am excited about the opportunities that lie ahead in the dynamic world of web development. By focusing on frontend development to sharpen my skills, I aim to create seamless and intuitive user experiences that elevate digital interactions to new heights.
+As freelance web developer, I am dedicated to crafting exceptional user interfaces that captivate and engage users, while also honing my skills in backend development. With a relentless pursuit of excellence and a thirst for knowledge, I am excited about the opportunities that lie ahead in the dynamic world of web development. By focusing on frontend development to sharpen my skills, I aim to create seamless and intuitive user experiences that elevate digital interactions to new heights.
 
 ## 🌐 Socials:
 <p align="center">
