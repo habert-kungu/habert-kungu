@@ -1,18 +1,11 @@
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+I'm++HABERT;Young+programmer+into+web+development.;Web+dev+enthusiast+and+algorithmic+trader." alt="Typing SVG" /></a>
 
-
-# 💫 About Me:
-<p align="center">Hi 👋 there, I'm Habert.</p>
-
-As freelance web developer, I am dedicated to crafting exceptional user interfaces that captivate and engage users, while also honing my skills in backend development. With a relentless pursuit of excellence and a thirst for knowledge, I am excited about the opportunities that lie ahead in the dynamic world of web development. By focusing on frontend development to sharpen my skills, I aim to create seamless and intuitive user experiences that elevate digital interactions to new heights.
 
 ## 🌐 Socials:
-<p align="center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habertkungu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPIVLwbWbQeyYEb3TJ5Gtqg%3D%3D) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HabertKungu)
-
-</p>
 
 # 💻 Tech Stack:
 
