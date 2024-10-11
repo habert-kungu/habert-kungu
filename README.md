@@ -9,7 +9,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,flutter,wordpress,nix,sqlite,javascript,typescript,java,python,arch,anaconda,bash,vim,vscode,git,;&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,flutter,wordpress,nix,sqlite,javascript,typescript,java,python,arch,anaconda,django,bash,vim,vscode,git,;&perline=12)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
