@@ -2,13 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+I'm++HABERT;WEB+DEVELOPER;+ALGORITHMIC+TRADING++ENTHUSIAST+;PROGRAMMER;Tech+enthusiast)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habertkungu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPIVLwbWbQeyYEb3TJ5Gtqg%3D%3D) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HabertKungu)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/habertkungu)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/habert-kungu)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.linkedin.com/in/habert-kungu)
+
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=git,react,flutter,javascript,typescript,python,arch,bash,html,css,anaconda,bash;&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,flutter,wordpress,nix,sqlite,javascript,typescript,java,python,arch,anaconda,bash,vim,vscode,git,;&perline=12)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
