@@ -3,8 +3,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/habertkungu)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/habert-kungu)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.linkedin.com/in/habert-kungu)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/habert-kungu-m)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/HabertKungu)
 
 
 # 💻 Tech Stack:
