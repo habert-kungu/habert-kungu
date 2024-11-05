@@ -3,13 +3,13 @@
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/habertkungu)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/habert-kungu-m)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/HabertKungu)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/HabertKungu)
 
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,flutter,wordpress,nix,sqlite,javascript,typescript,java,python,arch,anaconda,django,bash,vim,vscode,git,;&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,wordpress,nix,sqlite,javascript,typescript,python,arch,anaconda,django,bash,vim,vscode,git,;&perline=12)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
