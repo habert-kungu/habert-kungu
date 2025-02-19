@@ -1,5 +1,5 @@
-![Thumbnail](https://github.com/user-attachments/assets/de4dc94c-b7fa-4960-86fd-94b2bdec8e14)
 
+<img width="2536" alt="Thumbnail" src="https://github.com/user-attachments/assets/994def93-736e-4557-94e3-800003696089" />
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/habertkungu)
