@@ -1,6 +1,7 @@
 
-![Thumbnail (1)](https://github.com/user-attachments/assets/f7ab35cf-ab05-4455-a010-65025152bc1b)
-
+<p align="center">
+  <img  width="100%" src="https://github.com/user-attachments/assets/ab45e0c4-f62d-4d06-a998-2ecb8f3e45a8" /><br/>
+</p>
 
 ## 🌐 Socials
 
@@ -14,7 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,linux,nix,sqlite,bash,git,;&perline=12)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=habert-kungu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=flase" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=habert-kungu&theme=tokyonight&hide_border=true" /><br/>
