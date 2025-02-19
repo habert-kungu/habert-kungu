@@ -1,6 +1,9 @@
-<img width="100%" alt="Thumbnail" src="https://github.com/user-attachments/assets/998def93-736e-4557-94e3-800003696089" />
 
-## 🌐 Socials:
+![Thumbnail (1)](https://github.com/user-attachments/assets/f7ab35cf-ab05-4455-a010-65025152bc1b)
+
+
+## 🌐 Socials
+
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/habertkungu)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/HabertKungu)
