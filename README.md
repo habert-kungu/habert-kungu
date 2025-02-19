@@ -1,5 +1,5 @@
+![Thumbnail](https://github.com/user-attachments/assets/de4dc94c-b7fa-4960-86fd-94b2bdec8e14)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+I'm++HABERT;WEB+DEVELOPER;PROGRAMMER;Tech+enthusiast)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/habertkungu)
