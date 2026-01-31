@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,linux,mongo,postgres,express,bash,git,;&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,linux,openai,postgres,langchain,bash,git,;&perline=12)](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies
 
